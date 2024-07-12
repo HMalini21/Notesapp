@@ -1,9 +1,12 @@
 import Layout from '../components/Layout';
+import React from 'react';
 
 function Account() {
   return (
-    <Layout title="Account">
-      <h1>My account Page</h1>
+    <Layout>
+      <form>
+        <input type="text" />
+      </form>
     </Layout>
   );
 }

@@ -3,7 +3,6 @@ import { Link } from 'react-router-dom';
 function NavBar() {
   return (
     <nav>
-      {/* <h2>ReactCRUD</h2> */}
       <li>
         <strong>ReactCRUD</strong>
       </li>
